@@ -171,7 +171,7 @@ These visualizations help assess data distribution and model performance.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/diamonds-price-prediction-knn.git
+git clone https://github.com/Hallada-Manoj/diamonds-price-prediction-knn.git
 ```
 
 ### Navigate to Project Folder
